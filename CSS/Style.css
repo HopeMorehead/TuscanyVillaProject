@@ -1,16 +1,39 @@
-﻿.topnav{
+﻿
+
+.topnav{
 margin:0;
 width:100%;
-padding: 20px 20px 0px 0px;
 background-color: gainsboro;
-
 }
 
 
-.topnav a {
+
+li a {
 float:right;
+padding: 15px 15px 20px 5px;
 
-   
-
+text-align: center;
+text-decoration: none;
 
 }
+
+
+
+.topnav ol {
+    list-style-type: none;
+}
+
+
+
+
+ li {
+    display: inline;
+}
+ .active{
+     float:left;
+ }
+
+
+
+
+
