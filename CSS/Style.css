@@ -1,0 +1,36 @@
+﻿
+/*NAVBAR CSS*/
+
+.topnav{
+margin:0;
+width:100%;
+background-color: gainsboro;
+}
+
+
+.topnav ol {
+    list-style-type: none;
+}
+
+
+li a {
+float:right;
+padding: 15px 15px 20px 5px;
+text-align: center;
+text-decoration: none;
+
+}
+
+
+ li {
+    display: inline;
+}
+
+ .active{
+     float:left;
+ }
+
+ /*END OF NAV BAR CSS*/
+
+
+
