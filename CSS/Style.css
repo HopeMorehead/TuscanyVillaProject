@@ -1,10 +1,15 @@
 ﻿
 /*NAVBAR CSS*/
 
+body{
+    padding:0px;
+    margin:0px;
+}
+
 .topnav{
 margin:0;
 width:100%;
-background-color: gainsboro;
+ background-color:#474e5d;
 }
 
 
@@ -30,7 +35,132 @@ text-decoration: none;
      float:left;
  }
 
+/* .logo{
+     width:5px;
+     height:5px;
+ }*/
+ 
+
+
+
  /*END OF NAV BAR CSS*/
 
+
+ /*Head*/
+
+/*.midHead {
+    background-color: #808080;
+    height: 550px;
+}*/
+
+/*img{
+    padding:0px;
+}*/
+.tuscany-villaimage{
+    padding:0px;
+}
+.img-responsive{
+    padding:0px;
+    height: 400px;
+}
+
+.col-md-8 {
+    padding:0px;
+}
+
+.col-md-4 {
+    padding:0px;
+}
+.img-default{
+    margin:0px;
+}
+/*.imager{
+    float:right;
+}*/
+
+
+#location{
+    text-align:center;
+    margin-top: 100px;
+}
+#places{
+     text-align:center;
+}
+
+
+#Ammenities{
+    text-align:center;
+    margin-top: 50px;
+}
+#stuff{
+     text-align:center;
+}
+
+
+
+.midsection {
+    background-color: #474e5d;
+    height:200px;
+}
+
+.midsection1{
+
+    height:420px;
+    padding: 50px 0px 0px 90px;
+}
+
+
+
+.midsection2{
+
+    height:450px;
+    padding: 85px 0px 0px 90px;
+   background-color: #474e5d;
+
+}
+
+.midsection3{
+
+
+     height:420px;
+    padding: 50px 0px 0px 90px;
+
+}
+
+.midsection4{
+
+ background-color: #474e5d;
+    height:150px;
+    padding-top: 1px;
+
+
+}
+.imagediv1{
+    background-color: #474e5d;
+
+}
+
+img  {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+
+.bluePic{
+
+ padding: 0px 70px 0px 6px;
+ height:300px;
+ width: 575px;
+
+}
+
+.modern{
+
+ padding: 0px 70px 0px 6px;
+ height:300px;
+
+}
 
 
