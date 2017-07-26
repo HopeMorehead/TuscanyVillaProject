@@ -227,12 +227,18 @@ img  {
 .grid{
     padding: 0px 0px 0px 0px;
     margin: 0px 0px 0px 0px
-    height: 
-    width:
+   
 }
 .para{
     text-align:center;
      margin: 150px 10px 0px 0px;
+     padding:0px 0px 0px 0px
+}
+
+
+.midtag{
+
+    text-align:center;
 }
 
 #core{
@@ -273,7 +279,7 @@ input[type=submit]:hover {
 /* Add a background color and some padding around the form */
 .container {
     border-radius: 5px;
-    background-color: #f2f2f2;
+    background-color: white;
     padding: 20px;
 }
 
