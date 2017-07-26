@@ -163,4 +163,36 @@ img  {
 
 }
 
+.image{
 
+    height: 300px;
+    padding: 40px,30px,30px,30px;
+    width: 400px;
+    margin: 60px 70px 20px 70px; 
+}
+
+.image2{
+
+    height: 300px;
+    padding: 40px,30px,30px,30px;
+    width: 400px;
+    margin: 60px 70px 20px 10px
+}
+
+.image3 {
+
+
+    height: 300px;
+    padding: 40px,30px,30px,30px;
+    width: 400px;
+    margin: 60px 70px 20px 10px
+
+}
+
+.imatationimage{
+
+    height: 300px;
+    padding: 40px,30px,30px,30px;
+    margin: 60px 70px 20px 70px; 
+
+}
